@@ -58,6 +58,8 @@ class MixinModifyRecalculationTarget {
             "com.jerry.meklm.common.tile.machine.TileEntityLargeSolarNeutronActivator",
 
             "io.github.masyumero.emextras.common.tile.factory.TileEntityEMExtraFactory",
+            "io.github.masyumero.emextras.common.integration.mekaf.tile.factory.base.TileEntityEMExtraAdvancedFactoryBase",
+            "io.github.masyumero.emextras.common.integration.mekmm.tile.TileEntityEMExtraMoreMachineFactory",
 
             "com.fxd927.mekanismelements.common.tile.prefab.MSTileEntityProgressMachine"
         },
