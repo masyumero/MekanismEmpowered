@@ -46,8 +46,9 @@ class MixinModifyRecalculationTarget {
         },
         targets = {
             "com.jerry.mekanism_extras.common.tile.factory.TileEntityExtraFactory",
-            "com.jerry.mekanism_extras.common.tile.factory.TileEntityItemStackChemicalToItemStackExtraFactory",
+            "com.jerry.mekanism_extras.common.tile.factory.TileEntityExtraItemStackChemicalToItemStackFactory",
             "com.jerry.mekanism_extras.common.tile.machine.TileEntityAdvanceElectricPump",
+
 
             "com.jerry.mekaf.common.tile.base.TileEntityAdvancedFactoryBase",
             "com.jerry.mekmm.common.tile.factory.TileEntityMoreMachineFactory",
